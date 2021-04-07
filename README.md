@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash S D
-- 👀 I’m interested in learning new skills which helpfull for future.
+- 👀 I’m interested in learning new skills related to software devolopement.
 - 🌱 I’m currently studying in Electronic and communication engineering.
 
 <!---
