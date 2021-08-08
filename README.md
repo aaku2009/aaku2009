@@ -1,5 +1,5 @@
 
-I'm Akash SD currently a Pre-Final Year ECE student at @BMSIT&M. Interested in applying theoretical knowledge into practice and  Occasionally I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐🏃‍♂️🏃‍♂️🏃‍♂️
+I'm Akash SD currently a Pre-Final Year ECE student at @BMSIT&M. Interested in applying theoretical knowledge into practice and  Occasionally I do participate in Hackathons 💡 and I have a love/hate relationship with Programming... 😐🏃‍♂️🏃‍♂️🏃‍♂️
 
 
 <!---
