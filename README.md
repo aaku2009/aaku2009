@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Akash S D
-- 👀 I’m interested in learning new skills related to software devolopement.
-- 🌱 I’m currently studying in Electronic and communication engineering.
+
+I'm Akash SD currently a Pre-Final Year ECE student at @BMSIT&M. Interested in applying theoretical knowledge into practice and  Occasionally I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐🏃‍♂️🏃‍♂️🏃‍♂️
+
 
 <!---
 aaku2009/aaku2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
